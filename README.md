@@ -69,4 +69,6 @@ Las versiones v1 y v2 del módulo quedaron registradas en `oldIMC.md` y `oldcall
 
 ## Licencia
 
-Dominio público / MIT — haz lo que quieras, es tu máquina.
+**Unlicense — dominio público total.** Copia, modifica, publica, usa, compila, vende o distribuye este software, en fuente o binario, para cualquier propósito, comercial o no, por cualquier medio. Sin atribución, sin condiciones, sin copyleft.
+
+En jurisdicciones donde el dominio público no es viable, se otorga una licencia libre equivalente sin restricciones (ver `UNLICENSE`). Haz lo que quieras con el proyecto: es tu máquina.
